@@ -27,4 +27,15 @@ ordered a custom bot commission from me? follow these instructions provided ^_^
   <br>
   <img src="https://media.discordapp.net/attachments/840652464532488202/995493372406022205/newapp.png?width=1440&height=726">
   <br>
+  <li> next, scroll down to "privileged gateway intents", there should be three total. switch all of them to the "on" position and save your changes. </li>
+  <br>
+  <img src="https://media.discordapp.net/attachments/840652464532488202/995494152617873448/newapp.png?width=1233&height=730">
+  <br>
+  <br>
+  <li> finally, go back to "general information" on the left hand side and copy the application id, underneath the description and tags of the application. when copied, send this as well in our dms </li>
+  <br>
+  <img src="https://media.discordapp.net/attachments/840652464532488202/995495251311603742/newapp.png?width=1440&height=580">
+  <br>
+  <br>
+<li> thanks for commissioning! if i need any further information from your end, i will ask you in dms. </li>
 </ol>
